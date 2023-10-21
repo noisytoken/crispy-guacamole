@@ -1,0 +1,21 @@
+{
+  "name": "crispy-guacamole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.10.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@types/googlemaps": "^3.43.3"
+  }
+}
